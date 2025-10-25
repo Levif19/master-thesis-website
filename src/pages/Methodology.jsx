@@ -1,7 +1,7 @@
 import React from "react";
 import Collapsible from "../components/Collapsible";
 import { motion } from "framer-motion";
-import robotPlaceholder from "../assets/robot_placeholder.png";
+import robotPlaceholder from "../assets/placeholders/image1.png"
 
 export default function Methodology() {
   return (

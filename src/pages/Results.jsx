@@ -1,6 +1,6 @@
 import React from "react";
 import Collapsible from "../components/Collapsible";
-import modelChart from "../assets/model_chart.png";
+import modelChart from "../assets/placeholders/image1.png";
 import { motion } from "framer-motion";
 
 export default function Results() {

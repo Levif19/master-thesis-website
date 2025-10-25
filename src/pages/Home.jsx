@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import thesisPDF from '../assets/thesis.pdf'
+import thesisPDF from '../assets/Master_thesis_report.pdf'
 
 export default function Home() {
   return (

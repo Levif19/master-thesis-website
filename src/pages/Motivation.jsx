@@ -1,7 +1,7 @@
 import React from "react";
 import Collapsible from "../components/Collapsible";
 import { motion } from "framer-motion";
-import factoryFlow from "../assets/factory_flow.png";
+import factoryFlow from "../assets/placeholders/image1.png";
 
 export default function Motivation() {
   return (
